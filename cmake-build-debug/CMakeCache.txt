@@ -189,6 +189,15 @@ myos_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 myos_SOURCE_DIR:STATIC=/home/ziya/CLionProjects/myos
 
+//Value Computed by CMake
+ziya_oskernel_research_BINARY_DIR:STATIC=/home/ziya/CLionProjects/myos/cmake-build-debug
+
+//Value Computed by CMake
+ziya_oskernel_research_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+ziya_oskernel_research_SOURCE_DIR:STATIC=/home/ziya/CLionProjects/myos
+
 
 ########################
 # INTERNAL cache entries

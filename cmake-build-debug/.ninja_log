@@ -1,0 +1,5 @@
+# ninja log v5
+0	68	1679851569394876988	CMakeFiles/myos.dir/main.c.o	a0644bc3ad52f1b3
+1	73	1679851569442876857	CMakeFiles/myos.dir/tools/fileinfo.c.o	b6336b8863d49971
+1	73	1679851569442876857	CMakeFiles/myos.dir/tools/floppy.c.o	aaa09c33988d98d4
+73	89	1679851569458876813	myos	16aa2dcb876aa262

@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.23"
+						"string" : "3.22"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "myos::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-myos-Debug-17886c0c637bf8f9c0b6.json",
+					"jsonFile" : "target-myos-Debug-88090afb6e531c59f667.json",
 					"name" : "myos",
 					"projectIndex" : 0
 				}
